@@ -1,22 +1,128 @@
 # Notes AgileTour 2015 à Lille
 
-Notes prises lors de l'AgileTour 2015 à Lille (Euratechnologies)
+Notes prises lors de l'AgileTour 2015 à Lille (Euratechnologies). Les contributeurs à ces notes sont (par ordre alphabétiques des prénoms) : Charles, Christophe, Jean-Pierre, Julien et Sophie.
 
-## Talks
+L'Agile Tour Lille 2015 avait lieu le 15/10/2015 à Euratechnologies. Le site est disponible à cet URL : http://agiletour-lille.org/ .
 
-### Réussissez vos revues de codes en 5 leçons
+Nous n'avons pu (même collectivement) participer à toutes les présentations.
+
+## Présentations
+
+### Des lean startups dans l'administration !?
+
+#### Speaker(s)
+
+Pierre Pezziardi
+
+#### Les slides 
+
+#### ce que nous avons retenu
+
+### Collaboration : un problème récurrent dans les projets
+
+#### Speaker(s)
+
+Cédric Pourbaix
+
+#### Les slides 
+
+#### ce que nous avons retenu
+
+### Si le TDD est mort, alors pratiquons une autopsie
+
+#### Speaker(s)
+
+Bruno Boucard et Thomas Pierrain
+
+#### Les slides 
+
+#### ce que nous avons retenu
+
+### Ice Breaker : prenons un temps pour en gagner
+
+#### Speaker(s)
+
+Perrine Baudimont et Marine Fromentin
+
+#### Les slides 
+
+#### ce que nous avons retenu
+
+### Dis Papa, c'est quoi l'agilité ? 
+
+#### Speaker(s)
+
+Charles-Louis de Maere
+
+#### ce que nous avons retenu
+
+### Ratez vos revues de codes en 5 leçons
+
+#### Speaker(s)
+
+Bruno Boucard et Thomas Pierrain
 
 #### Les slides 
 
 http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-code
 
-### Le Kanban expliqué par Bison Futé
+#### ce que nous avons retenu
+
+### Monoïdes : le secret de la composabilité infinie
+
+#### Speaker(s)
+
+Cyrille Martraire
+
+#### Les slides 
+
+#### ce que nous avons retenu
+
+### Le mythe de l'Agile à l'échelle
+
+#### Speaker(s)
+
+Elalami Lafkih
 
 #### Les slides
 
 http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
 
-## Références
+#### ce que nous avons retenu
+
+### Le Kanban expliqué par Bison Futé
+
+#### Speaker(s)
+
+Cyrille Deruel
+
+#### Les slides
+
+http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
+
+#### ce que nous avons retenu
+
+### Alliés contre les défauts – pourquoi et comment nous relisons ensemble le code que nous produisons
+
+#### Speaker(s)
+
+Julien Jakubowski et Antoine Blancke
+
+#### Les slides 
+
+#### ce que nous avons retenu
+
+### Intégration continue, DevOps et après ?
+
+#### Speaker(s)
+
+Laurent Tardif
+
+#### Les slides 
+
+#### ce que nous avons retenu
+
+## Quelques références supplémentaires hors conférence
 
 ### DDD
 
