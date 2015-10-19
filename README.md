@@ -14,7 +14,7 @@ Nous n'avons pu (même collectivement) participer à toutes les présentations.
 
 Pierre Pezziardi
 
-#### Les slides 
+#### Les slides
 
 #### ce que nous avons retenu
 
@@ -24,7 +24,7 @@ Pierre Pezziardi
 
 Cédric Pourbaix
 
-#### Les slides 
+#### Les slides
 
 #### ce que nous avons retenu
 
@@ -34,7 +34,7 @@ Cédric Pourbaix
 
 Bruno Boucard et Thomas Pierrain
 
-#### Les slides 
+#### Les slides
 
 #### ce que nous avons retenu
 
@@ -44,11 +44,11 @@ Bruno Boucard et Thomas Pierrain
 
 Perrine Baudimont et Marine Fromentin
 
-#### Les slides 
+#### Les slides
 
 #### ce que nous avons retenu
 
-### Dis Papa, c'est quoi l'agilité ? 
+### Dis Papa, c'est quoi l'agilité ?
 
 #### Speaker(s)
 
@@ -60,9 +60,13 @@ Charles-Louis de Maere
 
 #### Speaker(s)
 
-Bruno Boucard et Thomas Pierrain
+* Bruno Boucard
+** Twitter : https://twitter.com/brunoboucard
+* Thomas Pierrain
+** Blog : http://tpierrain.blogspot.fr/
+** Twitter : https://twitter.com/tpierrain
 
-#### Les slides 
+#### Les slides
 
 http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-code
 
@@ -72,9 +76,12 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 
 #### Speaker(s)
 
-Cyrille Martraire
+* Cyrille Martraire
+** Blog/Site : http://cyrille.martraire.com/
+** Twitter : https://twitter.com/cyriux
+** Github : https://github.com/cyriux
 
-#### Les slides 
+#### Les slides
 
 #### ce que nous avons retenu
 
@@ -108,7 +115,7 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 
 Julien Jakubowski et Antoine Blancke
 
-#### Les slides 
+#### Les slides
 
 #### ce que nous avons retenu
 
@@ -118,9 +125,23 @@ Julien Jakubowski et Antoine Blancke
 
 Laurent Tardif
 
-#### Les slides 
+#### Les slides
 
 #### ce que nous avons retenu
+
+### La bataille du kata diamant
+
+#### Speakers
+
+* Bruno Boucard
+** Twitter : https://twitter.com/brunoboucard
+* Thomas Pierrain
+** Blog : http://tpierrain.blogspot.fr/
+** Twitter : https://twitter.com/tpierrain
+
+#### slides
+
+http://fr.slideshare.net/brunoboucard/diamond-kata-agile-tour-lille
 
 ## Quelques références supplémentaires hors conférence
 
@@ -134,7 +155,7 @@ Laurent Tardif
 
 * http://fr.slideshare.net/CyrilleDeruel/comment-jai-amlior-mon-kanban-grce-bison-fut-kanbanday-fr-2015
 
-### Monoïdes 
+### Monoïdes
 
 ### Agilité
 
@@ -145,3 +166,5 @@ Laurent Tardif
 ### Code, Craftsmanship & qualité
 
 * http://fr.slideshare.net/mdomenjoud/human-talks-ratez-vos-revues-de-code-en-5-leons
+* http://fr.slideshare.net/brunoboucard/fruit-shop-techdays-2015
+* http://fr.slideshare.net/brunoboucard/si-le-tdd-est-mort-alors-mix-it
