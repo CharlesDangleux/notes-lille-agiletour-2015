@@ -46,7 +46,8 @@ Nous n'avons pu (même collectivement) participer à toutes les présentations.
 
 #### Speaker(s)
 
-Perrine Baudimont et Marine Fromentin
+* Perrine Baudimont
+* Marine Fromentin
 
 #### Les slides
 
@@ -56,7 +57,7 @@ Perrine Baudimont et Marine Fromentin
 
 #### Speaker(s)
 
-Charles-Louis de Maere
+* Charles-Louis de Maere
 
 #### ce que nous avons retenu
 
@@ -89,7 +90,7 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 
 #### Speaker(s)
 
-Elalami Lafkih
+* Elalami Lafkih
 
 #### Les slides
 
@@ -101,7 +102,7 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 
 #### Speaker(s)
 
-Cyrille Deruel
+* Cyrille Deruel
 
 #### Les slides
 
@@ -113,7 +114,8 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 
 #### Speaker(s)
 
-Julien Jakubowski et Antoine Blancke
+* Julien Jakubowski
+* Antoine Blancke
 
 #### Les slides
 
@@ -123,7 +125,7 @@ Julien Jakubowski et Antoine Blancke
 
 #### Speaker(s)
 
-Laurent Tardif
+* Laurent Tardif
 
 #### Les slides
 
@@ -134,10 +136,10 @@ Laurent Tardif
 #### Speakers
 
 * Bruno Boucard
-** Twitter : https://twitter.com/brunoboucard
+    - Twitter : https://twitter.com/brunoboucard
 * Thomas Pierrain
-** Blog : http://tpierrain.blogspot.fr/
-** Twitter : https://twitter.com/tpierrain
+    - Blog : http://tpierrain.blogspot.fr/
+    - Twitter : https://twitter.com/tpierrain
 
 #### slides
 
@@ -148,7 +150,7 @@ http://fr.slideshare.net/brunoboucard/diamond-kata-agile-tour-lille
 ### DDD
 
 * https://domainlanguage.com/
-** https://domainlanguage.com/ddd/patterns/DDD_Reference_2011-01-31.pdf
+  - https://domainlanguage.com/ddd/patterns/DDD_Reference_2011-01-31.pdf
 * http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
 
 ### Kanban
