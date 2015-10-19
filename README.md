@@ -12,7 +12,7 @@ Nous n'avons pu (même collectivement) participer à toutes les présentations.
 
 #### Speaker(s)
 
-Pierre Pezziardi
+* Pierre Pezziardi
 
 #### Les slides
 
@@ -22,7 +22,7 @@ Pierre Pezziardi
 
 #### Speaker(s)
 
-Cédric Pourbaix
+* Cédric Pourbaix
 
 #### Les slides
 
@@ -32,7 +32,11 @@ Cédric Pourbaix
 
 #### Speaker(s)
 
-Bruno Boucard et Thomas Pierrain
+* Bruno Boucard
+  - Twitter : https://twitter.com/brunoboucard
+* Thomas Pierrain
+  - Blog : http://tpierrain.blogspot.fr/
+  - Twitter : https://twitter.com/tpierrain
 
 #### Les slides
 
@@ -60,11 +64,7 @@ Charles-Louis de Maere
 
 #### Speaker(s)
 
-* Bruno Boucard
-** Twitter : https://twitter.com/brunoboucard
-* Thomas Pierrain
-** Blog : http://tpierrain.blogspot.fr/
-** Twitter : https://twitter.com/tpierrain
+* Michel Domenjoud
 
 #### Les slides
 
@@ -77,9 +77,9 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 #### Speaker(s)
 
 * Cyrille Martraire
-** Blog/Site : http://cyrille.martraire.com/
-** Twitter : https://twitter.com/cyriux
-** Github : https://github.com/cyriux
+  - Blog/Site : http://cyrille.martraire.com/
+  - Twitter : https://twitter.com/cyriux
+  - Github : https://github.com/cyriux
 
 #### Les slides
 
