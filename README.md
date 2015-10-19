@@ -115,11 +115,33 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 #### Speaker(s)
 
 * Julien Jakubowski
-* Antoine Blancke
+* Antoine Blancke (Web Center Axa, Lille)
 
 #### Les slides
 
 #### ce que nous avons retenu
+
+* Mesure de l’excellence de la qualité : KPI (Key Performance Indicator)
+  - Le KPI suivi ici est nombre de défaut générés en production
+* Afin d'y arriver la démarche proposée est de mettre en place les actions suivantes :
+  - Revue de code
+  - TDD
+  - Code legacy
+  - BDD
+  - Communiquer
+
+revue de code "avant" :
+- revue par un tech leader
+- pb volume à relire
+- les équipes n’apprennent pas
+
+revue de code après :
+- Par équipe
+- Cout 5% budget total des devs
+
+Attention aux idées reçues :
+- Revue de code c’est trop cher
+- Or c’est une PRATIQUE qui permet de détecter les défauts
 
 ### Intégration continue, DevOps et après ?
 
