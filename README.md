@@ -13,10 +13,32 @@ Nous n'avons pu (même collectivement) participer à toutes les présentations.
 #### Speaker(s)
 
 * Pierre Pezziardi
+  - Twitter : @ppezziardi
 
 #### Les slides
 
 #### ce que nous avons retenu
+
+La présentation est le retour d'expérience du travail de Pierre Pezziardi et
+de Henri Verdier sur leur travail au sein de l'administration sur un mode "lean startup".
+
+Les sites & applications développées sont :
+
+* le site "data.gouv.fr" pour l'open data en France où grâce aux outils mis en place et à la démarche on est passé
+du site web au réseau social sur l'OpenData.
+* MPS (Marché Public Simplifié)
+    - Projet sortie en moins de 6 mois
+* le site "Le Taxi"
+* le site "mes-aides.gouv.fr"
+* le site "adresse.data.gouv.fr"
+* "La Bonne Boite"
+      - Pour Pôle Emploi
+      - Utilisation de Big Data et d'analyse
+      - il y a un marché cahcé des offres d'emploi : 75% des embauches ne se font pas via des annonces (candidatures spontanées, entretien, etc.)
+      - Pouvoir aiguiller les personnes en recherche d'emploi en se basant sur ces informations.
+
+De manière générale à part pour "Le Taxi", pas de cahier des charges, pas de commandes. Ce sont des applications
+qui n'ont pas été pensées par la structire elle-même... ce qui explique en partie la pertinence de ces applications.
 
 ### Collaboration : un problème récurrent dans les projets
 
