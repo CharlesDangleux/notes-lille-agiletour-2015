@@ -67,8 +67,8 @@ qui n'ont pas été pensées par la structire elle-même... ce qui explique en p
 La pratique du TDD a pu freiner ou décevoir certains mais il ne faut pas abandonner et réessayer.
 Reassuring Efficient Encouraging C'est rassurant - C'est efficace et c'est encourageant
 
-- code Kata : principe se mettre une difficulté
-- coding dojo : code kata à plusieurs
+- code Kata : principe se mettre une difficulté au travers d'un TDD
+- coding dojo : code kata à plusieurs -> TDD à plusieurs
 
 -> Le design émergent ressort du TDD
 
