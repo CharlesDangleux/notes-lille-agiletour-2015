@@ -64,6 +64,31 @@ qui n'ont pas été pensées par la structire elle-même... ce qui explique en p
 
 #### ce que nous avons retenu
 
+La pratique du TDD a pu freiner ou décevoir certains mais il ne faut pas abandonner et réessayer.
+Reassuring Efficient Encouraging C'est rassurant - C'est efficace et c'est encourageant
+
+- code Kata : principe se mettre une difficulté au travers d'un TDD
+- coding dojo : code kata à plusieurs -> TDD à plusieurs
+
+-> Le design émergent ressort du TDD
+
+1/ la préparation, c'est le SHOULD. C'est ce que le traitement DOIT faire.
+La base du test est le SCENARIO, le COMPORTEMENT
+
+2/Le ralentissement 
+<br/> Lire Thinking fast and fload 
+
+Retour d'expérience d'un des speaker avant de penser au test SHOULD de SCENARIO : 
+sur de 2,3 ans les tests ont bien marché puis il y a eu un gros blocage sur un gros projet.
+Trop de tests, trop de retouche de tests ...donc les tests étaient mal écrits.
+Les TU étaient liés à l'implémentation.
+
+Il faut donc tester le comportement, c'est le contrat d'intéraction.
+Exemple : tester des méthodes privées (quand c'est possible où quand tu y arrives) , c'est du détail de l'implémentation.
+
+Donc il s'agit de tester les méthodes publiques, les points d'entrée
+
+
 ### Ice Breaker : prenons un temps pour en gagner
 
 #### Speaker(s)
