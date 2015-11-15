@@ -17,8 +17,11 @@ Nous n'avons pu (même collectivement) participer à toutes les présentations.
 
 #### Les slides
 
+* A priori pas de slides mises à disposition du public, mais on peut retrouver Pierre Pezziardi également sur SlideShare : http://fr.slideshare.net/ppezziardi
+
 #### ce que nous avons retenu
 
+##### Introduction
 La présentation est le retour d'expérience du travail de Pierre Pezziardi et
 de Henri Verdier sur leur travail au sein de l'administration sur un mode "lean startup".
 
@@ -38,7 +41,44 @@ du site web au réseau social sur l'OpenData.
       - Pouvoir aiguiller les personnes en recherche d'emploi en se basant sur ces informations.
 
 De manière générale à part pour "Le Taxi", pas de cahier des charges, pas de commandes. Ce sont des applications
-qui n'ont pas été pensées par la structire elle-même... ce qui explique en partie la pertinence de ces applications.
+qui n'ont pas été pensées par la structure elle-même... ce qui explique en partie la pertinence de ces applications.
+
+##### Approche
+
+* Quel problème resout-on ?
+  - partager, améliorer, et réutiliser les données publiques (dat.gouv).
+  - un clic, un taxi
+* Chercher un innovateur plus qu'une innovation
+  - C'est difficile de mettre en production une innovation : résistance de l'organisation
+  - un _irritant_
+  - Il faut un volontaire, une volonté
+* Le chef c'est l'usager
+  - Parfois il faut aller contre le chef : si l'on enfreint pas une règle, on ne créé pas de valeur (Goldratt)
+  - Posture humble
+* Nécessité de la disruption
+  - la notion de _reproduction_ de Bourdieu
+* Le temps n'est pas négociable
+  - Combien de temps il vous faut ? ** 6 mois, 4 personnes **
+  - Combien cela va coûter ? ** 6 mois, 4 personnes **
+  - En 6 mois on arrive toujours à quelque chose même si c'est humble
+  - _On peut tout faire en 6 mois avec 4 personnes_
+* Evitons toute attente en dehors de notre équipe autonome
+  - Quand on court 10 fois plus vite, les dépendances sont juste des risques.
+* Comment être agile quand on est dans un structure qui ne l'est pas ?
+  - Times there are a-changin'
+  - Après _Agility First_ viendra _Security First_
+  - _Security First_ entraîne une absence d'innovation
+  - 2 légitimités qui s'affrontent
+  - il faut trouver un équilibre, un continum entre les 2
+  - _Suckcess_ (Bob Dylan)
+  - _penseur/faiseur_
+  - Les grosses organisations ne changent pas leur _ADN_
+  - notion d'actif
+  - _Mieux-disant_
+* La valeur peut se lire en creux
+  - Attention aux métriques
+
+
 
 ### Collaboration : un problème récurrent dans les projets
 
@@ -75,10 +115,10 @@ Reassuring Efficient Encouraging C'est rassurant - C'est efficace et c'est encou
 1/ la préparation, c'est le SHOULD. C'est ce que le traitement DOIT faire.
 La base du test est le SCENARIO, le COMPORTEMENT
 
-2/Le ralentissement 
-<br/> Lire Thinking fast and fload 
+2/Le ralentissement
+<br/> Lire Thinking fast and fload
 
-Retour d'expérience d'un des speaker avant de penser au test SHOULD de SCENARIO : 
+Retour d'expérience d'un des speaker avant de penser au test SHOULD de SCENARIO :
 sur de 2,3 ans les tests ont bien marché puis il y a eu un gros blocage sur un gros projet.
 Trop de tests, trop de retouche de tests ...donc les tests étaient mal écrits.
 Les TU étaient liés à l'implémentation.
@@ -86,8 +126,7 @@ Les TU étaient liés à l'implémentation.
 Il faut donc tester le comportement, c'est le contrat d'intéraction.
 Exemple : tester des méthodes privées (quand c'est possible où quand tu y arrives) , c'est du détail de l'implémentation.
 
-Donc il s'agit de tester les méthodes publiques, les points d'entrée
-
+Donc il s'agit de tester les méthodes publiques, les points d'entrée.
 
 ### Ice Breaker : prenons un temps pour en gagner
 
@@ -141,7 +180,7 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 
 #### Les slides
 
-http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
+* http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
 
 #### ce que nous avons retenu
 
@@ -153,7 +192,7 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 
 #### Les slides
 
-http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
+* http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
 
 #### ce que nous avons retenu
 
@@ -165,6 +204,8 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 * Antoine Blancke (Web Center Axa, Lille)
 
 #### Les slides
+
+* http://fr.slideshare.net/jak78/agile-tour-2015-allies-contre-les-defauts
 
 #### ce que nous avons retenu
 
@@ -230,7 +271,7 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 - Ne pas critiquer la personne -> dur avec le code doux avec les gens
 - Modo perd le contrôle
 - Pas de time keeper opérationnel
-- Avoir peur d’être jugé 
+- Avoir peur d’être jugé
 - Pas oser le feedback sur son code
 - Faire des remarques pertinentes
 - Abandonner la pratique (pression projet)
@@ -249,9 +290,8 @@ http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-p
 - 3 users stories = 3 * 1h par semaine
 - % de code couvert : tout le code produit à 100%
 
-Blog.octo.com/revue_code 
+Blog.octo.com/revue_code
 Blog.octo.com/comment_rater_revue_code
-
 
 
 ### Intégration continue, DevOps et après ?
@@ -291,6 +331,9 @@ http://fr.slideshare.net/brunoboucard/diamond-kata-agile-tour-lille
 * http://fr.slideshare.net/CyrilleDeruel/comment-jai-amlior-mon-kanban-grce-bison-fut-kanbanday-fr-2015
 
 ### Monoïdes
+
+* http://fr.slideshare.net/XebiaFrance/devoxx-france-2014-la-puissance-de-mon-monode-est-suprieure-9000-34280399
+* http://fr.slideshare.net/fsarradin/programmationfonctionnelle
 
 ### Agilité
 
