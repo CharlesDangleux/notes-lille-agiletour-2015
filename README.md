@@ -15,11 +15,11 @@ Nous n'avons pu (même collectivement) participer à toutes les présentations.
 * Pierre Pezziardi
   - Twitter : @ppezziardi
 
-#### Les slides
+#### Les transparents de la présentation
 
-* A priori pas de slides mises à disposition du public, mais on peut retrouver Pierre Pezziardi également sur SlideShare : http://fr.slideshare.net/ppezziardi
+* A priori pas de présentation mise à disposition du public, mais on peut retrouver Pierre Pezziardi également sur SlideShare : http://fr.slideshare.net/ppezziardi
 
-#### ce que nous avons retenu
+#### Notes
 
 ##### Introduction
 La présentation est le retour d'expérience du travail de Pierre Pezziardi et
@@ -37,7 +37,7 @@ du site web au réseau social sur l'OpenData.
 * "La Bonne Boite"
       - Pour Pôle Emploi
       - Utilisation de Big Data et d'analyse
-      - il y a un marché cahcé des offres d'emploi : 75% des embauches ne se font pas via des annonces (candidatures spontanées, entretien, etc.)
+      - il y a un marché caché des offres d'emploi : 75% des embauches ne se font pas via des annonces (candidatures spontanées, entretien, etc.)
       - Pouvoir aiguiller les personnes en recherche d'emploi en se basant sur ces informations.
 
 De manière générale à part pour "Le Taxi", pas de cahier des charges, pas de commandes. Ce sont des applications
@@ -78,17 +78,16 @@ qui n'ont pas été pensées par la structure elle-même... ce qui explique en p
 * La valeur peut se lire en creux
   - Attention aux métriques
 
-
-
 ### Collaboration : un problème récurrent dans les projets
 
 #### Speaker(s)
 
 * Cédric Pourbaix
+  - Twitter : @CedricPourbaix
+  - Voir également le site de EFIDEV : http://www.efidev.com/
 
-#### Les slides
 
-#### ce que nous avons retenu
+#### Notes
 
 ### Si le TDD est mort, alors pratiquons une autopsie
 
@@ -100,9 +99,9 @@ qui n'ont pas été pensées par la structure elle-même... ce qui explique en p
   - Blog : http://tpierrain.blogspot.fr/
   - Twitter : https://twitter.com/tpierrain
 
-#### Les slides
+#### Les transparents de la présentation
 
-#### ce que nous avons retenu
+#### Notes
 
 La pratique du TDD a pu freiner ou décevoir certains mais il ne faut pas abandonner et réessayer.
 Reassuring Efficient Encouraging C'est rassurant - C'est efficace et c'est encourageant
@@ -135,9 +134,9 @@ Donc il s'agit de tester les méthodes publiques, les points d'entrée.
 * Perrine Baudimont
 * Marine Fromentin
 
-#### Les slides
+#### Les transparents de la présentation
 
-#### ce que nous avons retenu
+#### Notes
 
 ### Dis Papa, c'est quoi l'agilité ?
 
@@ -145,7 +144,7 @@ Donc il s'agit de tester les méthodes publiques, les points d'entrée.
 
 * Charles-Louis de Maere
 
-#### ce que nous avons retenu
+#### Notes
 
 ### Ratez vos revues de codes en 5 leçons
 
@@ -153,11 +152,11 @@ Donc il s'agit de tester les méthodes publiques, les points d'entrée.
 
 * Michel Domenjoud
 
-#### Les slides
+#### Les transparents de la présentation
 
 http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-code
 
-#### ce que nous avons retenu
+#### Notes
 
 ### Monoïdes : le secret de la composabilité infinie
 
@@ -168,9 +167,9 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
   - Twitter : https://twitter.com/cyriux
   - Github : https://github.com/cyriux
 
-#### Les slides
+#### Les transparents de la présentation
 
-#### ce que nous avons retenu
+#### Notes
 
 ### Le mythe de l'Agile à l'échelle
 
@@ -178,11 +177,11 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 
 * Elalami Lafkih
 
-#### Les slides
+#### Les transparents de la présentation
 
 * http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
 
-#### ce que nous avons retenu
+#### Notes
 
 ### Le Kanban expliqué par Bison Futé
 
@@ -190,11 +189,11 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 
 * Cyrille Deruel
 
-#### Les slides
+#### Les transparents de la présentation
 
 * http://fr.slideshare.net/CyrilleDeruel/agile-tour-lille-octo-le-kanban-expliqu-par-bison-fut
 
-#### ce que nous avons retenu
+#### Notes
 
 ### Alliés contre les défauts – pourquoi et comment nous relisons ensemble le code que nous produisons
 
@@ -203,11 +202,11 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 * Julien Jakubowski
 * Antoine Blancke (Web Center Axa, Lille)
 
-#### Les slides
+#### Les transparents de la présentation
 
 * http://fr.slideshare.net/jak78/agile-tour-2015-allies-contre-les-defauts
 
-#### ce que nous avons retenu
+#### Notes
 
 * Mesure de l’excellence de la qualité : KPI (Key Performance Indicator)
   - Le KPI suivi ici est nombre de défaut générés en production
@@ -300,9 +299,9 @@ Blog.octo.com/comment_rater_revue_code
 
 * Laurent Tardif
 
-#### Les slides
+#### Les transparents de la présentation
 
-#### ce que nous avons retenu
+#### Notes
 
 ### La bataille du kata diamant
 
@@ -314,7 +313,7 @@ Blog.octo.com/comment_rater_revue_code
     - Blog : http://tpierrain.blogspot.fr/
     - Twitter : https://twitter.com/tpierrain
 
-#### slides
+#### Les transparents de la présentation
 
 http://fr.slideshare.net/brunoboucard/diamond-kata-agile-tour-lille
 
