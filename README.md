@@ -204,6 +204,8 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
 
 Les définitions ci-après viennent du document _Compléments d'algèbre et de géométrie pour l'agrégation_ de __Bernard Le Stum__ de l'Université de Rennes.
 
+Voir également la définition qui est proposée par Wikipedia : https://fr.wikipedia.org/wiki/Mono%C3%AFde 
+
 ##### Loi de composition
 
 Une loi de composition est une application E × F --> G(x, y) |--> xy (ou plus
