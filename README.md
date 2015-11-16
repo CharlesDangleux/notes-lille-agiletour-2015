@@ -115,6 +115,10 @@ elle mérite qu'on si (ré-)intéresse et qu'on la ré-essaie le cas échéant. 
 * coding Dojo
   - code kata à plusieurs -> TDD à plusieurs
 
+Pour rappel, le schéma ci-après rappelle le cycle de fonctionnement de la TDD.
+
+![The TDD Cycle](/the-tdd-cycle.png)
+
 ##### Thinking out of the box
 
 * Florence à l'aude de la Renaissance
