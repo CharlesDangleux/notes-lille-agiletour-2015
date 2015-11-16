@@ -198,9 +198,33 @@ http://fr.slideshare.net/mdomenjoud/agile-tour-lille-2015-ratez-vos-revues-de-co
   - Twitter : https://twitter.com/cyriux
   - Github : https://github.com/cyriux
 
-#### Les transparents de la présentation
-
 #### Notes
+
+#### Définitions formelles liées aux monoïdes
+
+Les définitions ci-après viennent du document _Compléments d'algèbre et de géométrie pour l'agrégation_ de __Bernard Le Stum__ de l'Université de Rennes.
+
+##### Loi de composition
+
+Une loi de composition est une application E × F --> G(x, y) |--> xy (ou plus
+généralement, x * y).
+
+Si E = F = G, on dit que c’est une loi de composition interne dans, ou sur E.
+
+La loi F × E --> G, (y, x) |--> xy est la loi opposée.
+
+##### Loi de composition interne associative
+
+Une loi de composition interne sur un ensemble G est associative si pour tout x, y, z appartenant à G, on a (xy)z == x(yz) == xyz.
+
+On dit que **1** appartient à G est une unité (ou plus généralement un élément neutre) si pour tout
+x appartenant à G, on a 1x == x1 == x.
+On parle d’élément nul noté 0, au lieu l’unité lorsque la loi est not"´e"e additivement.
+
+##### Monoïde
+
+Un monoïde est un ensemble muni d’une loi de composition interne associative et
+unitaire.
 
 ### Le mythe de l'Agile à l'échelle
 
