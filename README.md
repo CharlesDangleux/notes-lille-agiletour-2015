@@ -227,6 +227,96 @@ On parle d’élément nul noté 0, au lieu l’unité lorsque la loi est not"´
 
 Un monoïde est un ensemble muni d’une loi de composition interne associative et
 unitaire.
+Différent du monoïde du docteur Who :)
+
+* Notion de code Gourmet :
+TDD ; Test Driven Develoment
+BDD : Behaviour-Driven Development
+DDD : Driven domain Design
+
+* Structure mathématique :
+Propriété de clôture sur l'ensemble : 1 verre de bière combiné à un verre de bière égale 1 verre de bière.
+L'associativité : 1 verre dans l'autre ou inversement.
+Element neutre : verre zéro
+
+* TROIS NOMBRES EN INFORMATIQUE : 
+0 : Null Object
+1 : implémentation
+MANY : opération
+
+* Composabilité = clé de la scalabilité
+référence Hadoop
+référence Storm
+
+Typique du langage fonctionnel 
+
+Value Object est un pattenr de la DDD
+C'est Immutbale -> equals by Value
+
+* Exemple <br/>
+ 18 M<br/>
++16 M<br/>
+=34 M<br/>
+Cela implique une méthode Add() pure<br/>
+ 25 $<br/>
++60 E<br/>
+= Exception<br/>
+
+* Les objets arithmétiques:<br/>
+[1,3]  UNION [2,4] EGALE [1,4]<br/>
+Prédicat :<br/>
+Filtre F ET/OU Filtre F donne FILTRE F <br/>
+Règle des droits sur UNIX
+
+* Exemple 1<br/>
+On peut très bien voir les dépenses pour un quelqu'un :<br/>
+10/01/2015- 24/10/2015<br/>
+30e       - 15e<br/>
+Et additionner cela aux dépenses d'un autre personne<br/>
+10/01/2015- 24/10/2015 - 26/10/2015<br/>
+5e        - 15e        - 1e<br/>
+Ce qui donne<br/>
+10/01/2015- 24/10/2015 - 26/10/2015<br/>
+35e       - 30e        - 1e<br/>
+
+* Exemple 2 <br/>
+On peut aussi voir cela pour les options du téléphones mobile :<br/>
+Personne Lambda Monoïde -> ligne option téléphone<br/>
+Option 4G : 3E, Option TV 5e, Option BETA : 5E<br/>
+Personne Lambda 2 :<br/>
+Option 4G : 3E, Option TV 5e, Option BETA : 5E<br/>
+ici pour l'objet totalLignesOptionFamilleLambda de type ligneOption<br/>
+totalLignesOptionFamilleLambda = ligneOptionsLambda.add(ligneOptionsLambda2);<br/>
+On fait la somme des monoïdes "Option" de même types à l'intérieur des monoïdes de type ligne option téléphone<br/>
+Donc dans la méthode add de ligneOption:<br/>
+void add(ligneOption lo){<br/>
+  this.option4g.add(lo.getOption4g());<br/>
+  this.optionTv.add(lo.getOptionTv());<br/>
+  this.optionBeta.add(lo.getOptionBeta());<br/>
+}<br/>
+On pourrait voir aussi le total de la ligne Option en additionnant les options si elles sont toutes en euro<br/>
+double getTotal(){<br/>
+  try {<br/>
+  return this.option4g.add(optiontv).add(this.optionBeta);<br/>
+  }<br/>
+  catch (MonoideException me){<br/>
+    //TODO<br/>
+  }<br/>
+}<br/>
+
+* Exemple 3 (A compléter ...)<br/>
+Temperature avec dans le constructeur l'opération a effectuer :<br/>
+new T (x+4, Celcius, "x+4") on va pouvoir logguer l'opération<br/>
+
+
+* Exemple 4<br/>
+On gère des monoïdes de type Paiement<br/>
+monPaiement.add(paiement2).add(paiementRetard).add(Avoir);<br/>
+
+
+* Limites : <br/>
+Tout ce qui n'est pas linéaire<br/>
+La JVM don cla durée de vie des objets. C'est bien pour les objets de vie courte<br/>
 
 ### Le mythe de l'Agile à l'échelle
 
