@@ -230,9 +230,9 @@ unitaire.
 Différent du monoïde du docteur Who :)
 
 * Notion de code Gourmet :
-TDD ; Test Driven Develoment
-BDD : Behaviour-Driven Development
-DDD : Driven domain Design
+_TDD : Test Driven Develoment_
+_BDD : Behaviour-Driven Development_
+_DDD : Driven domain Design_
 
 * Structure mathématique :
 Propriété de clôture sur l'ensemble : 1 verre de bière combiné à un verre de bière égale 1 verre de bière.
@@ -240,9 +240,9 @@ L'associativité : 1 verre dans l'autre ou inversement.
 Element neutre : verre zéro
 
 * TROIS NOMBRES EN INFORMATIQUE : 
-0 : Null Object
-1 : implémentation
-MANY : opération
+_0 : Null Object_
+_1 : implémentation_
+_MANY : opération_
 
 * Composabilité = clé de la scalabilité
 référence Hadoop
@@ -254,7 +254,7 @@ Value Object est un pattenr de la DDD
 C'est Immutbale -> equals by Value
 
 * Exemple <br/>
- 18 M<br/>
+18 M<br/>
 +16 M<br/>
 =34 M<br/>
 Cela implique une méthode Add() pure<br/>
@@ -270,14 +270,14 @@ Règle des droits sur UNIX
 
 * Exemple 1<br/>
 On peut très bien voir les dépenses pour un quelqu'un :<br/>
-10/01/2015- 24/10/2015<br/>
-30e       - 15e<br/>
+_10/01/2015- 24/10/2015<br/>_
+_30e       - 15e<br/>_
 Et additionner cela aux dépenses d'un autre personne<br/>
-10/01/2015- 24/10/2015 - 26/10/2015<br/>
-5e        - 15e        - 1e<br/>
+_10/01/2015- 24/10/2015 - 26/10/2015<br/>_
+_5e        - 15e        - 1e<br/>_
 Ce qui donne<br/>
-10/01/2015- 24/10/2015 - 26/10/2015<br/>
-35e       - 30e        - 1e<br/>
+_10/01/2015- 24/10/2015 - 26/10/2015<br/>_
+_35e       - 30e        - 1e<br/>_
 
 * Exemple 2 <br/>
 On peut aussi voir cela pour les options du téléphones mobile :<br/>
