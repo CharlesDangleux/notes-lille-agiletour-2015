@@ -270,8 +270,8 @@ Cela implique une méthode *add()* pure : 25$ + 60 Euros = Exception
 
 On peut très bien voir les dépenses pour quelqu'un :
 
-_10/01/2015 - 24/10/2015_
-_30e        - 15e_
+_10/01/2015 - 24/10/2015_<br/>
+_30e        - 15e_<br/>
 
 Et additionner cela aux dépenses d'une autre personne :
 
