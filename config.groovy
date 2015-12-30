@@ -17,3 +17,4 @@ outputEncoding = "UTF-8"
 documentTocDepth = 4
 pageTocDepth = 99
 numbering = true
+readmeToIndex = false
