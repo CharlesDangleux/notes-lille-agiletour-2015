@@ -18,3 +18,12 @@ documentTocDepth = 4
 pageTocDepth = 99
 numbering = true
 readmeToIndex = false
+
+//Une solution de contournement pour pallier à ce qui semble être un bug dans Gaiden
+filters = {
+    all {
+        afterTemplate = { text ->
+            text.replaceAll(/<link rel="stylesheet" href="(\.\.\\){3}/, '<link rel="stylesheet" href="')
+        }
+    }
+  }
