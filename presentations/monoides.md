@@ -1,6 +1,6 @@
 # Monoïdes : le secret de la composabilité infinie
 
-## Speaker(s)
+## Le présentateur
 
 * Cyrille Martraire
   - Blog/Site : http://cyrille.martraire.com/

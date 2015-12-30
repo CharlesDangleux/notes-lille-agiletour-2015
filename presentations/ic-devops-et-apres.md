@@ -1,6 +1,6 @@
 # Intégration continue, DevOps et après ?
 
-## Speaker(s)
+## Le présentateur
 
 * Laurent Tardif
 

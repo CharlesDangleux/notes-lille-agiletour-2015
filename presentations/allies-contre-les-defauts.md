@@ -1,18 +1,17 @@
 # Alliés contre les défauts – pourquoi et comment nous relisons ensemble le code que nous produisons
 
-## Speaker(s)
+## Les présentateurs
 
 * Julien Jakubowski
 * Antoine Blancke (Web Center Axa, Lille)
 
 ## Les transparents de la présentation
 
-* http://fr.slideshare.net/jak78/agile-tour-2015-allies-contre-les-defauts
+Les transparents sont disponibles sur slideshare : http://fr.slideshare.net/jak78/agile-tour-2015-allies-contre-les-defauts
 
 ## Notes
 
 ### Contexte
-
 * Mesure de l’excellence de la qualité : KPI (Key Performance Indicator)
   - Le KPI suivi ici est nombre de défauts générés en production
 * Afin d'y arriver la démarche proposée est de mettre en place les actions suivantes :
@@ -51,14 +50,14 @@
 * Réunion rapide
 * Pour la revue
   - Faire une checklist des standards
-  - Inviter l’équipe au moin s1 jour avant
-  - Gérer le logistique (salle)
-  - Indiquer les stories qui vont passer en revue
+  - Inviter l’équipe au moins 1 jour avant
+  - Gérer la logistique (salle)
+  - Indiquer les _stories_ qui vont être passer en revue
   - Préparer les codes à présenter
 * Rôles
   - DEV : le développeur
   - READER : les relecteurs
-  - MODO : modérateur de la reunion qui anime  dans le but de trouver des erreurs, quel est le standard.
+  - MODO : modérateur de la reunion qui anime dans le but de trouver des erreurs, quel est le standard.
   - TIMEKEEPER : 1 minute pour statuer sur le défaut
   - SCRIBE : consigne les défauts, maj standards, prévoir correction avec un peer review
 * Limites et écueils à éviter
@@ -83,5 +82,5 @@
   - 3 users stories = 3 * 1h par semaine
   - % de code couvert : tout le code produit à 100%
 * Quelques liens complémentaires sur le sujet
-  - Blog.octo.com/revue_code
-  - Blog.octo.com/comment_rater_revue_code
+  - blog.octo.com/revue_code
+  - blog.octo.com/comment_rater_revue_code

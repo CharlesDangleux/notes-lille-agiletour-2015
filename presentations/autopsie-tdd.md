@@ -1,6 +1,6 @@
 # Si le TDD est mort, alors pratiquons une autopsie
 
-## Speaker(s)
+## Les présentateurs
 Les 2 présentateurs étaient Bruno Boucard et Thomas Pierrain.
 
 * Bruno Boucard
@@ -53,16 +53,15 @@ Pour rappel, le schéma ci-après rappelle le cycle de fonctionnement de la TDD.
     - Penser au film **Les Temps Modernes** de Charlie Chaplin
     - Distinguer la répétition stupide (un gest répété vide de sens) de l'entraînement.
     - Faire le lien avec le principe _Shu-Ha-Ri_
-
-1. la préparation, c'est le SHOULD.
+* la préparation, c'est le SHOULD.
   - C'est ce que le traitement DOIT faire.
   - La base du test est le SCENARIO, le COMPORTEMENT
-2. Le ralentissement
-  - Lire _Thinking fast and fload_
+* Le ralentissement
+  - Lire _Thinking fast and slow_ de Daniel Kahneman
 
-### Retour d'expérience d'un des speaker
+### Retour d'expérience d'un des présentateurs
 
-* avant de penser au test SHOULD de SCENARIO :
+* avant de penser aux tests SHOULD de SCENARIO :
   - sur de 2,3 ans les tests ont bien marché puis il y a eu un gros blocage sur un gros projet.
   - Trop de tests, trop de retouches de tests...
     - donc les tests étaient mal écrits.

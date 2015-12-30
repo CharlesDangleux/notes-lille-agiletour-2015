@@ -1,6 +1,6 @@
 # Des lean startups dans l'administration !?
 
-## Speaker(s)
+## Le présentateur
 
 * Pierre Pezziardi
   - Twitter : @ppezziardi
